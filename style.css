@@ -1,0 +1,46 @@
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+body{
+
+  background-color: aqua;
+}
+.info
+{
+  padding: 10px 20px;
+}
+.about
+{
+  padding: 10px 20px;
+}
+.contact{
+  padding: 10px 20px;
+}
+.follow
+{
+  padding: 10px 20px;
+}
+.box
+{
+  padding: 10px 20px;
+}
+.work
+{
+  padding: 10px 20px;
+  margin: 10px 20px;
+
+}
+.edu
+{
+  padding: 10px 20px;
+  margin: 10px 20px;
+
+}
+.bar
+{
+  padding: 10px 20px;
+  margin-left: 10px;
+
+}
